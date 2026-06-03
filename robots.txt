@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lady-wild-10-el-hugewin-220.onrender.com/sitemap.xml
